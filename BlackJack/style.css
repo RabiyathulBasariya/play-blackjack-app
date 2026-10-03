@@ -1,0 +1,46 @@
+body{
+    background-image: url("Background.jpg");
+    background-size: cover;
+    text-align: center;
+    font-family: "Kameron", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+#container{
+    margin-top: 100px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#container p{
+    color: white;
+}
+
+#Game{
+    font-style: italic;
+}
+
+#container h1{
+    color: goldenrod;
+}
+
+#container button{
+    color: rgb(6, 31, 6);
+    background-color: goldenrod;
+    padding: 8px 20px;
+    border: none;
+    font-family: "Kameron", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+   font-size: medium;
+    font-weight: bold;
+   border-radius: 3px;
+   width: 150px;
+}
+
+#container button:hover{
+    cursor: pointer;
+}
